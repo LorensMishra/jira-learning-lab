@@ -37,6 +37,44 @@ Developed by **Atlassian**, Jira is widely used in software development and IT t
 | 05_Sample_Projects | Demo project setups |
 
 ---
+## 📂 Folder Structure
+
+jira-learning-lab/
+│
+├── 01_Jira_Notes/
+│   ├── jira_basics.md
+│   ├── jira_workflows.md
+│   ├── scrum_vs_kanban.md
+│   ├── issue_types.md
+│   ├── jira_fields.md
+│   └── jira_permissions.md
+│
+├── 02_Practical_Exercises/
+│   ├── project_setup/
+│   ├── ticket_creation/
+│   ├── sprint_management/
+│   ├── backlog_practice/
+│   └── bug_tracking_scenarios/
+│
+├── 03_Real_World_UseCases/
+│   ├── employee_onboarding.md
+│   ├── bug_lifecycle.md
+│   ├── task_assignment_flow.md
+│   └── release_management.md
+│
+├── 04_Interview_Preparation/
+│   ├── jira_interview_questions.md
+│   ├── scenario_based_questions.md
+│   └── jira_admin_questions.md
+│
+├── 05_Sample_Projects/
+│   ├── agile_project_demo/
+│   ├── support_project_demo/
+│   └── product_dev_demo/
+│
+└── README.md
+
+---
 
 ## 🧠 Knowledge Areas Covered
 
