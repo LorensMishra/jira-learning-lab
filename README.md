@@ -1,6 +1,6 @@
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/40c6a55d-f40f-4163-8cb7-b1e7b6a11fec" />
-
 # Jira Learning Lab 🚀
+
+<img width="1271" height="456" alt="image" src="https://github.com/user-attachments/assets/7120dbaa-b516-436f-9bea-528d307dba56" />
 
 ## Jira – The Ultimate Project Management Tool
 
