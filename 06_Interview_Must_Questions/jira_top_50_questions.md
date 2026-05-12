@@ -1,4 +1,6 @@
-# 🎯 Top 50 Important Jira Interview Questions
+# Top 50 Important Jira Interview Questions
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff5c5b4d-4d5e-43bb-8e87-20b3a2a848ee" />
 
 A practical set of real-world Jira interview questions commonly asked for:
 
@@ -9,7 +11,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟦 Basics
+## Basics
 
 1️⃣ What is Jira and why is it used?  
 2️⃣ What are the different issue types in Jira?  
@@ -24,7 +26,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟩 Agile & Boards
+## Agile & Boards
 
 1️⃣1️⃣ Difference between Scrum and Kanban board?  
 1️⃣2️⃣ What is Sprint Planning?  
@@ -39,7 +41,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟨 JQL (Jira Query Language)
+## JQL (Jira Query Language)
 
 2️⃣1️⃣ What is JQL?  
 2️⃣2️⃣ How do you search issues using JQL?  
@@ -49,7 +51,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟧 Workflow & Configuration
+## Workflow & Configuration
 
 2️⃣6️⃣ What is Workflow Scheme?  
 2️⃣7️⃣ What is a Status?  
@@ -59,7 +61,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟪 Fields
+## Fields
 
 3️⃣1️⃣ What are System Fields?  
 3️⃣2️⃣ What are Custom Fields?  
@@ -69,7 +71,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟥 Permissions
+## Permissions
 
 3️⃣6️⃣ What is Permission Scheme?  
 3️⃣7️⃣ Difference between Role and Group?  
@@ -79,7 +81,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## ⚙ Automation
+## Automation
 
 4️⃣1️⃣ What is Jira Automation?  
 4️⃣2️⃣ How to auto assign issues?  
@@ -89,7 +91,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 🟫 Admin
+## Admin
 
 4️⃣6️⃣ What is Screen Scheme?  
 4️⃣7️⃣ What is Notification Scheme?  
@@ -99,7 +101,7 @@ A practical set of real-world Jira interview questions commonly asked for:
 
 ---
 
-## 📝 Notes
+## Notes
 
 ✔ These are real interview-focused questions  
 ✔ Covers practical Jira usage  
